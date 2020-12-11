@@ -15,6 +15,10 @@ header h1 {
   font-size: 50px;
 }
 
+header .hero-img {
+  background-attachment: fixed;
+}
+
 header .hero-text p {
   font-size: 30px;
 }
