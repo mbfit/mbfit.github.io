@@ -1,0 +1,54 @@
+header .fa-chevron-down {
+  display: block;
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+  font-size: 35px;
+  -webkit-animation: bounce 1.6s infinite;
+          animation: bounce 1.6s infinite;
+  color: white;
+}
+
+header h1 {
+  font-size: 50px;
+}
+
+header .hero-text p {
+  font-size: 30px;
+}
+
+@media (min-width: 1200px) {
+  #aboutus-hero .jumbotron {
+    padding: 100px 0;
+  }
+  #aboutus-hero .price-wrap {
+    width: 85%;
+  }
+  #team .card-text {
+    font-size: 16px;
+  }
+}
+
+@media (min-width: 1400px) {
+  #aboutus-hero .jumbotron {
+    padding: 120px 0;
+  }
+}
+
+@media (min-width: 1800px) {
+  #team .card-text {
+    font-size: 18px;
+  }
+}
+
+@media (min-width: 2000px) {
+  #aboutus-hero .jumbotron {
+    padding: 100px 0;
+  }
+  #aboutus-hero .price-wrap {
+    width: 70%;
+  }
+}
+/*# sourceMappingURL=large.css.map */
