@@ -23,6 +23,10 @@ header .hero-text p {
   font-size: 30px;
 }
 
+#team .jumbotron, #contact .jumbotron {
+  background-attachment: fixed;
+}
+
 @media (min-width: 1200px) {
   #aboutus-hero .jumbotron {
     padding: 100px 0;

@@ -18,7 +18,15 @@ header .hero-text p {
   font-size: 23px;
 }
 
+#team .jumbotron {
+  background-attachment: fixed;
+}
+
 #team .card-body {
   height: 150px;
+}
+
+#contact .jumbotron {
+  background-attachment: fixed;
 }
 /*# sourceMappingURL=medium.css.map */
