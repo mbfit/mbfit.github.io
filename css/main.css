@@ -104,7 +104,7 @@ header h1 {
 header .hero-img {
   position: relative;
   height: 100vh;
-  background-image: url(/img/hero-img.jpg);
+  background-image: url(img/hero-img.jpg);
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
@@ -181,7 +181,7 @@ header .fa-chevron-down {
 #aboutus-hero .jumbotron {
   position: relative;
   padding: 60px 0;
-  background-image: url(/img/about-hero.jpg);
+  background-image: url(img/about-hero.jpg);
   background-position: center;
   background-size: cover;
   z-index: 0;
@@ -293,7 +293,7 @@ header .fa-chevron-down {
 
 #team .jumbotron {
   position: relative;
-  background-image: url(/img/room-hero.jpg);
+  background-image: url(img/room-hero.jpg);
   background-size: cover;
   background-attachment: fixed;
   z-index: 0;
@@ -378,7 +378,7 @@ header .fa-chevron-down {
 
 #contact .jumbotron {
   position: relative;
-  background-image: url(/img/chicago-690364_1280.jpg);
+  background-image: url(img/chicago-690364_1280.jpg);
   background-position: bottom;
   background-attachment: fixed;
   background-size: cover;
