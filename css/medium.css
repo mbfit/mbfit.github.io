@@ -3,7 +3,7 @@ header h1 {
 }
 
 header .hero-img {
-  background-image: url(https://pixabay.com/get/52e0d2424951b108feda8460c62030781236dde24e507749722878d5924acc_1920.jpg);
+  background-image: url(../img/hero-img-1280.jpg);
   background-attachment: fixed;
 }
 
